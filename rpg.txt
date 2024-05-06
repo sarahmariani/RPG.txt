@@ -1,0 +1,12 @@
+cenário:
+
+Casa: 1 aventura - o meia-noite foi sequestrado e o Yohan(protagonista) foi em busca de seu gato preto.
+      2 aventura - 
+      3 aventura - 
+      4 aventura - 
+      5 aventura - 
+Floresta:
+
+Montanha:
+
+Castelo:
