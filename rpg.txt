@@ -1,12 +1,22 @@
 cenário:
 
 Casa: 1 aventura - o meia-noite foi sequestrado e o Yohan(protagonista) foi em busca de seu gato preto.
-      2 aventura - 
-      3 aventura - 
-      4 aventura - 
-      5 aventura - 
-Floresta:
+      2 aventura - essa parte do jogo se passa em torno do meia-noite(o gato) fazendo missões como: ajudar os aldeões da vila,
+                   fazer magias, caçar animais, etc.
+      3 aventura - yohan passa na casa de um velho mago para comprar poções para criar um monstro para te ajudar a encontrar o meia-
+                   noite. O velho mago lhe conta sobre uma lenda de um gigante.
+      4 aventura - aparece um ex-colega da escola de magia de yohan, de certa forma demonstrando ajuda para achar o meia-noite. Yohan
+                   fica desconfiado com a chegada repentina, mas decide confiar. Juntos vão para um mercado, missão de: pegar suplementos
+                   suficientes, comida, mana, etc.
+      5 aventura - yohan recebe um sinal de meia-noite através de um sinal de seu colar, o qual representa a amizade dos dois. 
+                   alistar invoca um monstro do absoluto nada, e ataca yohan, mas yohan vem mais forte com seu poder abscuro.
+                   lança uma chama preta roxa, junto com uns raios e faz alistar e o monstrom sumir, e foge.
 
+Floresta: 1 aventura - 
+          2 aventura - 
+          3 aventura - 
+          4 aventura - 
+          5 aventura - 
 Montanha:
 
 Castelo:
