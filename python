@@ -1,0 +1,23 @@
+import csv
+# Nome do arquivo CSV
+aventura_csv = 'aventura.csv'
+
+# Nome da coluna que você deseja imprimir
+nome_coluna = 'coluna_aventura'
+
+# Lista para armazenar os valores da coluna
+valores_coluna = []
+
+# Abre o arquivo CSV 
+with open('aventura_csv', 'r') as aventura:
+          leitor_csv = csv.DictReader(aventura)
+
+          # Itera sobre as linhas do CSV
+           for linha in leitor_csv:
+             
+               # Adicione o valor de cada coluna desejada a lista
+           valores_coluna.append(linha[nome_coluna])
+
+          # Imprime os valores da coluna
+          for valor in valores_coluna:
+              print(valor)
