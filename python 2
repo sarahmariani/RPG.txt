@@ -1,0 +1,12 @@
+Imprime_aventura_especifica(planilha, is)
+def imprime_aventura_especifica(copia, n):
+  for j in copia:
+    if j == n:
+      print(f"aventura:[j{'aventura'}]")
+---------------------------------------------------------------
+// função imprime todo mundo
+
+def imprime_aventura (capa):
+  for n in copa:
+    print(f"aventura:[n{"aventura}]")
+    
