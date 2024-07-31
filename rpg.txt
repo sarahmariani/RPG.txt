@@ -22,8 +22,12 @@ Floresta: 1 aventura - após percorrer um longo caminho em seu vilarejo aonde mo
           3 aventura - yohan encontra um homem enfiado num baú, ele era baixo e tinha cabelo liso, sedoso e loiro. ele pergunta para esse homem se ele sabe como chegar 
                        no castelo, ele diz que precisa atravessar diferentes tipos de montanhas, existe 5 montanhas, terra, fogo, gelo, raio e dos doces. e mais uma alguma
                        ele me disse que na montanha dos doces tem uma regra "não diga nunca".
-          4 aventura - 
-          5 aventura - 
-Montanha:
+          4 aventura - dai ele seguiu seu caminho na floresta e atravesou um lago grande pulando em pedras 
+          5 aventura - ele caiu em um buraco e apareceu em um lugar misterioso
 
-Castelo:
+Montanha: 1 aventura - derrepente encontra montanhas elementais e percorre pelas montanhas em busca de resposta do seu gato meia-noite, e encontra um ser de fogo que lhe da respostas.
+          2 aventura - derrepente encontra montanhas elementais e percorre pelas montanhas em busca de resposta do seu gato meia-noite, e encontra um ser de agua que lhe da respostas.
+          3 aventura - derrepente encontra montanhas elementais e percorre pelas montanhas em busca de resposta do seu gato meia-noite, e encontra um ser de terra que lhe da respostas.
+          4 aventura - derrepente encontra montanhas elementais e percorre pelas montanhas em busca de resposta do seu gato meia-noite, e encontra um ser de ar que lhe da respostas.
+
+Castelo: 1 aventura - 
