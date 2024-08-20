@@ -1,0 +1,70 @@
+import csv
+
+with open("apresentação.txt) as minhaApresentação:
+        minhaVariavel = minhaApresentação()
+print(minhaVariavel)
+
+planilha = []
+
+
+def imprimirAventuras(planilha):
+    for guilhermeicastiel in planilha:
+        print(f "Aventura: {guilhermeicastiel['Aventura']}")
+          
+          
+
+          
+
+def aventuraEspecifica (planilha, elementoEspecifico):
+    for guilhermeicastiel in planilha:
+        if guilhermeicastiel == elementoEspecifico:
+           print(f "Aventura: {guilhermeicastiel['Aventura']}")
+          
+
+
+          
+
+def removerAventura (planilha, elementoRemovido):
+    for guilhermeicastiel in planilha:
+        if guilhermeicastiel != elementoRemovido:
+           print (f "Aventura: {guilhermeicastiel['Aventura']}")
+
+
+
+          
+
+def funçaoContinue ():
+    escolha = input ("Digite 'continue' para avançar:")
+    while escolha != "continue":
+          escolha = input ("Não foi possivel avançar. Digite 'continue':)
+    if escolha == "continue":
+          print("Pode avançar, boa sorte!")
+    return escolha
+
+
+    
+
+
+with open ("rpg.csv", "r") as minhasPlanilha:
+     novaVariavel = csv.DictReader (minhaPlanilha)
+     for n in novaVariavel:
+         planilha.append(n)
+print(planilha)
+
+
+
+                           
+
+imprimirAventuras(planilha)
+
+elementoEspecifico = planilha[9]
+aventuraEspecifica (planilha, elementoEspecifico)
+
+elementoRemovido = planilha[19]
+removerAventura (planilha, elementoRemovido)
+
+funçaoContinue()
+
+
+
+  
